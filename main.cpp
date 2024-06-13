@@ -21,6 +21,7 @@ int main(){
 	Score out = test.evaluate_hand(common);
 	cout << out.r <<": " << out.tie_breaker << endl;
 	return 0;*/
+	//test git
 	Game gm(4);
 	gm.run_game();
 	return 0;
